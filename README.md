@@ -1,2 +1,2 @@
-# FizzBuzz
-The good old FizzBuzz problem :D
+# FizzBuzzConverter
+The good old FizzBuzzConverter problem :D
