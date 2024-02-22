@@ -15,5 +15,5 @@ FizzBuzz conversion for numbers 1-200 |
 
 ---
 <p align="center">
-  ⭐ Star this repository — it helps!
+  ⭐ Star this repository if it helped you!
 </p>

@@ -1,6 +1,9 @@
-public class FizzBuzzConverter {
+public class FizzBuzz {
 
-    public String convert(int num) {
+    public String play(int num) {
+
+        if (num == 0)
+            throw new IllegalArgumentException("Number must be greater than 0");
 
         if (isDivisibleBy(num, 3) && isDivisibleBy(num, 5))
             return "FizzBuzz";

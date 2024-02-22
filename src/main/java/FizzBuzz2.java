@@ -1,6 +1,6 @@
-public class FizzBuzzConverter2 {
+public class FizzBuzz2 {
 
-    public String convert(int num) {
+    public String play(int num) {
 
         String output = "";
 
